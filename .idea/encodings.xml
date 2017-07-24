@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../Essai/gradle.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Essai/local.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ScrollBar/gradle.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ScrollBar/local.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Views/gradle.properties" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Views/local.properties" charset="UTF-8" />
   </component>

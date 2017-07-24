@@ -31,7 +31,7 @@ public class MovieArrayAdapter extends ArrayAdapter<Movie> {
   @Override
   public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent){
 
-   //get the data items for position
+    //get the data items for position
     Movie movie = getItem(position);
     //check the existing view being used
     if (convertView == null){
@@ -59,5 +59,3 @@ public class MovieArrayAdapter extends ArrayAdapter<Movie> {
   }
 
 }
-
-
